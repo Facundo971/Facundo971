@@ -1,35 +1,30 @@
-![logo](https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/a1720865-4800-42f7-a153-501b82da1b82)
+![logo](https://github.com/tu_usuario/tu_repo/assets/logo.png)
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Juhi+Pathak;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer;I'm+@+thelone.artist"></p>
-<h3 align="center">CSE Undergrad, 3rd Year | Lead at Google Developer Student Club, GLBITM | Ex-SDE Intern at Cognizant</h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=50&lines=Soy+Fernandez+Gonzalez+Facundo+Antonio;Estudiante+de+Ingeniería+en+Software;Desarrollador+Web;Apasionado+por+la+Computación"></p>
+<h3 align="center">Estudiante de Ingeniería en Software | FaCENA - UNNE</h3>
 
-<img align="right" alt="coding" width="500" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
+<img align="right" alt="coding" width="500" src="https://github.com/tu_usuario/tu_repo/assets/coding.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="juhipathak23" width="150"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tu_usuario&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="facundo" width="150"/> </p>
 
-- 🔭 I’m currently working on **EcoParali**, sponsored by GoI
-
-- 🌱 I’m currently learning **Neural Networks**
-
-- 📝 I will write articles on <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
-
-- 💬 Ask me about **Full Stack Dev, AIML, Graphic Designing**
-
-- 📫 How to reach me **pathakkakul@gmail.com**
-
-- ⚡ Fun fact **I am a big Harry Potter fan! Expecto Patronum**
+- 🔭 Actualmente trabajando en **Plataforma de ventas de laptops y notebooks** (proyecto de Ingeniería de Software II)  
+- 🌱 Estoy profundizando en **Ingeniería de Software, Bases de Datos**  
+- 📝 Planeo escribir artículos sobre mis proyectos y aprendizajes  
+- 💬 Pregúntame sobre **Desarrollo Web, Bases de Datos, Ingeniería de Software**  
+- 📫 Cómo contactarme: **ffacundo544.fernandez.z@gmail.com**
+- ⚡ Dato curioso: **Me apasiona la informática y siempre busco optimizar mis proyectos**  
 
 -----------------------
-## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A little bit about Myself :)</b>
+## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>Un poco sobre mí :)</b>
 
 ```javascript
-const Juhi = {
-  pronouns: "She" | "Her",
-  code: ["C++", "Python", "Java", "Javascript", "HTML", "CSS"],
-  askMeAbout: ["Web Dev", "Frontend Dev", "Python", "AIML", "GCP"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["GCP", "AIML", "Databases"],
+const Facundo = {
+  pronombres: "Él" | "Su",
+  lenguajes: ["JavaScript", "HTML", "CSS", "PHP"],
+  frameworks: ["Bootstrap", "Tailwind", "Laravel", "CodeIgniter 4"],
+  intereses: ["Desarrollo Web", "Ingeniería de Software", "Bases de Datos"],
+  proyectos: {
+      actual: "Plataforma de ventas de laptops y notebooks"
   }
 }
 ```

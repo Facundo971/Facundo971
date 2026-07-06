@@ -1,384 +1,321 @@
-<span align="center">
+![logo](https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/a1720865-4800-42f7-a153-501b82da1b82)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Juhi+Pathak;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer;I'm+@+thelone.artist"></p>
+<h3 align="center">CSE Undergrad, 3rd Year | Lead at Google Developer Student Club, GLBITM | Ex-SDE Intern at Cognizant</h3>
 
-<img align="left" width="40px" src="./assets/img/pablo-34.gif" />
-<h1>Hi 👋, I'm (don) Pablo</h1>
-<img align="right" width="25px" src="./assets/img/pablo-28.gif" />
-<h3>A passionate Software Nomad and Digital Engineer.</h3>
-</span>
-<span align="center">
+<img align="right" alt="coding" width="500" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="juhipathak23" width="150"/> </p>
 
-██████████████████████████╗░░█████╗░██████╗░██╗░░░░░░█████╗░<br/>
-██████████████████████╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗<br/>
-██████████████████████████╔╝███████║██████╦╝██║░░░░░██║░░██║<br/>
-█▄─▄▄▀█─▄▄─█▄─▀█▄─▄███╔═══╝░██╔══██║██╔══██╗██║░░░░░██║░░██║<br/>
-██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
-▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
+- 🔭 I’m currently working on **EcoParali**, sponsored by GoI
 
+- 🌱 I’m currently learning **Neural Networks**
 
-<img width="150px" src="./assets/img/pablo-26.gif" />
-<img align="left" width="40px" src="./assets/img/pablo-33.gif" />
-<img align="right" width="80px" src="./assets/img/pablo-42.gif" />
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
+- 📝 I will write articles on <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
- <br /><br/>
-<img align="left" width="40px" src="./assets/img/pablo-34.gif" />
-<img align="left" width="100px" src="./assets/img/pablo-4.gif" />
+- 💬 Ask me about **Full Stack Dev, AIML, Graphic Designing**
 
-<img align="right" width="150px" src="./assets/img/pablo-16.gif" />
-<br />
-<h1>Hello World, my name is (don) <img width="130px" src="./assets/img/pablo-2.gif" /></h1>
-</span>
-<span align="center">
-<br />
-<a href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
- <br />
-</span><span align="center">
-<br />
-<img width="100px" align="right" alt="Github" src="./assets/img/pablo-17.gif" />
- 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
-<br />
- <br />
- 🌱 I’m currently learning Kubenetes, Crypto, Distributed Storage 
- 
- <img align="right" width="120px" src="./assets/img/pablo-14.gif" />
-<br/><br/>
+- 📫 How to reach me **pathakkakul@gmail.com**
 
- 👯 I’m looking to collaborate on Various Projects, give me a holla! 
- 
- 💬 Talk to me about Anything, very interested in a wide range of topics :) 
- 
-<img align="left" width="140px" src="./assets/img/pablo-18.gif" />
+- ⚡ Fun fact **I am a big Harry Potter fan! Expecto Patronum**
 
- 🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
+-----------------------
+## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A little bit about Myself :)</b>
 
- 👨‍💻 All of my projects are available at [https://github.com/donPabloNow](https://github.com/donPabloNow)
- 
-<img align="left" width="40px" src="./assets/img/pablo-30.gif" />
+```javascript
+const Juhi = {
+  pronouns: "She" | "Her",
+  code: ["C++", "Python", "Java", "Javascript", "HTML", "CSS"],
+  askMeAbout: ["Web Dev", "Frontend Dev", "Python", "AIML", "GCP"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
+      backend: ["GCP", "AIML", "Databases"],
+  }
+}
+```
+------------------
 
- 📝 I regularly write articles on [https://www.medium.com/donPabloNow](https://www.medium.com/donPabloNow)
- 
-<img align="left" width="25px" src="./assets/img/pablo-40.gif" />
- 
- <img align="right" width="130px" src="./assets/img/pablo-21.gif" />
+## <img src="https://vectorified.com/images/free-education-icon-12.png" width="25">  <b>Education</b>
+<br>
+<table width="100%" align="center" padding="0" margin="0">
+<tr>
+<td valign="top" width="50%">
+  
+<!-- START_SECTION:blog -->
+| Qualification | Studied at | Institute | Affliated by | Year of Study | Percentage |
+| :-: | :---: | :----: | :--: | :--: | :--: |
+| B.Tech CSE | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/89b08ba9-ced9-44ed-88c2-9f1902fd16c1" width="40" height="30"> | G. L. Bajaj Institute of Tech. and Mgmt. | AKTU | Nov 2021 - Present | 8.95 CGPA |
+| Intermediate | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/cd162930-387d-453a-bfe3-fc75b06a77dc" width="40" height="30"> | GRM School, Bareilly | CBSE | 2020 - 2021 | 98.4 |
+| Highschool | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/b2f4eb6c-dfdb-4b39-bfaf-67cb83a6a774" width="40" height="30"> | GRM School, Bareilly | CBSE | 2018 - 2019 | 98.2 |
+<!-- END_SECTION:blog -->
+</td>
+</tr>
+</table>  
 
- 💬 Ask me about **anything**
+-------------------
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
+<br>
 
- 📫 How to reach me **@donPabloNow**
-
- 📄 Know about my experiences [https://www.linkedin.com/in/donPabloNow](https://www.linkedin.com/in/donPabloNow)
-
- ⚡ Fun fact **I am a funny guy and love making music**
-
-<br/>
-<p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
-<br/>
- 
-<img align="left" width="25px" src="./assets/img/pablo-29.gif" />
- 
-</span><span align="center">
- 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" />
-<img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
- 
- <br/>
- <h2> Blog posts </h2>
- <br/>
- 
- <img align="left" width="50px" src="./assets/img/pablo-31.gif" />
- 
-<img  align="left" width="200px" src="./assets/img/pablo-22.gif" />
- <img  align="right" width="150px" src="./assets/img/pablo-37.gif" />
- 
-<!-- BLOG-POST-LIST:START -->
-- [Gentoo in 60 seconds — GO!](https://systemweakness.com/gentoo-in-60-seconds-go-9fde4af4ce5e?source=rss-73f028f71fcb------2)
-- [Nvidia Geforce Rtx 3070 Ti Review](https://donpablonow.medium.com/nvidia-geforce-rtx-3070-ti-review-13608057a8ea?source=rss-73f028f71fcb------2)
-- [Optimize your VM performance in VMware Workstation.](https://medium.com/donpublic/optimize-your-vm-performance-in-vmware-workstation-1470704ba228?source=rss-73f028f71fcb------2)
-- [The best new feature in macOS Big Sur 11.3 i](https://medium.com/donpublic/the-best-new-feature-in-macos-big-sur-11-3-i-ae2f9513db4?source=rss-73f028f71fcb------2)
-<!-- BLOG-POST-LIST:END --> 
- 
- </span>
- 
-<br/>
-<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
-
-<span align="center">
- 
-<img src="./screenshot.png" width="100%" />
-<br />
-<h3 align="left">Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3>
-<img align="right" src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" />
-<p align="left">
- <br/>
- 
-<a href="https://codepen.io/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://dev.to/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://twitter.com/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://codesandbox.com/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://kaggle.com/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://fb.com/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://instagram.com/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://dribbble.com/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://www.behance.net/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://medium.com/@donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@donpablonow" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="https://discord.gg/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="/https://www.donpablonow.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@donPabloNow" height="30" width="40" /></a>
+<p align="left"> 
+  <a href="https://leetcode.com/u/pathakjuhi/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/juhi_pathak" target="_blank">  <img alt="CodeChef" width="125" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/pathakkakul" target="_blank">  <img alt="HackerRank" width="125" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/juhipathak" target="_blank"> <img alt="Codeforces" width="125" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerearth.com/@pathakkakul" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.naukri.com/code360/profile/juhipathak" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<br/>
- <img align="center" width="100%" src="./assets/img/pablo-44.gif" />
- <br/>
-<h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
- <br/><br/>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=11ty&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/11ty.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=amplify&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/amplify.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=angularjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=apachecordova&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/apachecordova.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=arduino&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=backbonejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/backbonejs.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=behance&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/behance.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=blender&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=blogger&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blogger.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=bulma&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bulma.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=cassandra&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cassandra.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=clojure&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/clojure.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=canvasjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/canvasjs.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=cockroachdb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cockroachdb.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=circleci&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/circleci.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=codepen&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/codepen.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=codeigniter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/codeigniter.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=couchdb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/couchdb.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=coffeescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/coffeescript.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=cypress&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cypress.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=dart&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=d3js&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/d3js.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=dotnet&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=dribbble&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dribbble.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=chartjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/chartjs.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=dropbox&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dropbox.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=elasticsearch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/elasticsearch.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=elixir&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/elixir.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=envato&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/envato.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=ember&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ember.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=electron&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/electron.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=erlang&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/erlang.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=babel&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/babel.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=facebook&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=gatsby&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gatsby.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=flask&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=geeks-for-geeks&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/geeks-for-geeks.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=gcp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=framer&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/framer.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=graphql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=gridsome&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gridsome.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=gtk&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gtk.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=grafana&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/grafana.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=gulp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gulp.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=hackerearth&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerearth.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=hackerrank&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=haskell&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/haskell.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=google&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/google.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=facebook-alt&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook-alt.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=heroku&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=hive&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hive.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=hadoop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hadoop.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=illustrator&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=instagram&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=hugo&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hugo.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=ionic&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ionic.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=hexo&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hexo.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=jekyll&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jekyll.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=jest&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=jenkins&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=kafka&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kafka.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=kaggle&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=invision&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/invision.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=kibana&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kibana.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=kotlin&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=laravel&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=linked-in&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=karma&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/karma.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=jasmine&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jasmine.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=leet-code&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/leet-code.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=mariadb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mariadb.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=medium&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=matlab&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/matlab.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=messenger&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/messenger.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=middleman&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/middleman.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=materialize&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/materialize.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=myspace-alt&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/myspace-alt.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=meteor&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/meteor.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=nativescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nativescript.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=myspace&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/myspace.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=nuxtjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nuxtjs.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=openresty&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/openresty.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=opencv&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=oracle&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=objectivec&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/objectivec.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=perl&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/perl.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=nginx&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=path&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/path.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=picasa&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/picasa.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=pinterest&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pinterest.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=photo&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photo.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=qt&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/qt.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=puppeteer&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/puppeteer.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=quasar&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/quasar.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=rabbitmq&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rabbitmq.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=reactnative&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=pug&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pug.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=rails&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rails.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=reddit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reddit.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=rss&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rss.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=rust&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=redis&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=realm&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/realm.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=sapper&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sapper.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=mocha&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mocha.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=scully&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scully.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=skype&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/skype.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=selenium&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=solidworks&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/solidworks.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=sculpin&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sculpin.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=snapchat&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/snapchat.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=soundcloud&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/soundcloud.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=spotify&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=sketch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sketch.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=scala&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scala.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=svelte&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=swift&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=symfony&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/symfony.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=team&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/team.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=tensorflow&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=tumblr&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tumblr.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=twitch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitch.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=stack-overflow&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/stack-overflow.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=twitter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=twitter-alt&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter-alt.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=unity&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=vagrant&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vagrant.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=travisci&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/travisci.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=vimeo&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vimeo.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=vk&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vk.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=viddler&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/viddler.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=vuejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=vine&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vine.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=vuepress&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuepress.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=vuetify&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuetify.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=whatsapp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/whatsapp.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=webpack&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=xd&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=yahoo&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/yahoo.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=xamarin&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xamarin.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=unreal&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=wxwidgets&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wxwidgets.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=solr&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/solr.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=linked-in-alt&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=zapier&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/zapier.svg'> </a>
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=youtube&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
- <br/><br/><br/>
- <table  align="center" width="100%">
-    <tr>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/1t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/8t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/3t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/5t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/6t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/7t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/10t.gif" /></td>
+
+-------------------
+
+## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills that make me TECH-SAVVY</b>
+
+### 📋 Programming languages
+
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a> 
+
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  </a>
+
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+
+  <a href="https://www.php.net/" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
+  </a>
+</p>
+
+### 📋 Frontend Development
+
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+  
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
+  </a>
+  
+  <a href="https://tailwindcss.com" target="_blank"> 
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
+  </a>
+</p>
+
+### ☁️ Cloud
+
+<p align="left"> 
+  <a href="https://aws.amazon.com/" target="_blank"> 
+   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
+  </a>   
+  
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white">
+  </a> 
+  
+ <a href="https://cloud.google.com/" target="_blank"> 
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/>
+  </a>
+  
+</p>
+
+### ♾️ DevOps
+
+<p align="left"> 
+  <a href="https://www.docker.com/" target="_blank"> 
+   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
+  </a>   
+  
+  <a href="https://kubernetes.io/" target="_blank">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
+  </a> 
+  
+ <a href="https://bitbucket.org/" target="_blank"> 
+    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"/>
+  </a>
+
+ <a href="https://git-scm.com/" target="_blank"> 
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
+  </a>
+ 
+ <a href="https://about.gitlab.com/" target="_blank"> 
+    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white"/>
+  </a>
+  
+ <a href="https://github.com/" target="_blank"> 
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+  </a>
+</p>
+
+### 💾 Databases
+
+<p align="left"> 
+
+  <a href="https://www.mysql.com/" target="_blank"> 
+   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
+  </a>   
+   <a href="https://www.mongodb.com/" target="_blank"> 
+   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+  </a>  
+  
+   <a href="https://www.sqlite.org/" target="_blank"> 
+   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
+  </a>   
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank">
+    <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white">
+  </a> 
+  
+ <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
+    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
+  </a>
+
+ <a href="https://firebase.google.com/" target="_blank"> 
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&logoColor=white"/>
+  </a>
+  
+</p>
+
+### 🎛️ Operating Systems
+
+<p align="left"> 
+  <a href="https://www.centos.org/" target="_blank"> 
+   <img alt="CentOS" src="https://img.shields.io/badge/CentOS-002260?logo=centos&logoColor=F0F0F0">
+  </a>   
+  
+  <a href="https://www.debian.org/" target="_blank">
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white">
+  </a> 
+  
+ <a href="https://www.kali.org/" target="_blank"> 
+    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?logo=kalilinux&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+  </a>
+
+ <a href="https://ubuntu.com/" target="_blank"> 
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
+  </a>
+
+ <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
+  </a>
+</p>
+  
+### 💻 IDEs/Editors
+
+<p align="left"> 
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  </a>   
+  
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white">
+  </a> 
+  
+ <a href="https://www.qt.io/" target="_blank"> 
+    <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white"/>
+  </a>
+
+ <a href="https://www.rstudio.com/" target="_blank"> 
+    <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB.svg?logo=tailwind-css&logoColor=white"/>
+  </a>
+
+ <a href="https://www.jetbrains.com/idea/" target="_blank"> 
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
+  </a>
+
+ <a href="https://netbeans.apache.org/" target="_blank"> 
+    <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"/>
+  </a>
+
+ <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
+    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+  </a>
+
+ <a href="https://www.sublimetext.com/" target="_blank"> 
+    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important"/>
+  </a>
+  
+  <a href="https://visualstudio.microsoft.com/" target="_blank"> 
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
+  </a>
+</p>
+
+### 🥅 Others:
+
+<a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"></a>
+<a href="https://httpd.apache.org" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white"></a>
+<a href="https://tomcat.apache.org" target="_blank"><img alt="Apache Tomcat" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black"></a>
+<a href="https://nginx.org" target="_blank"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white"></a>
+<a href="https://www.selenium.dev" target="_blank"><img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?logo=selenium&logoColor=white"></a>
+<a href="https://www.anaconda.com" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white"></a>
+<a href="https://kafka.apache.org" target="_blank"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka"></a>
+<a href="https://www.djangoproject.com" target="_blank"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white"></a>
+<a href="https://opencv.org" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white"></a>
+<a href="https://numpy.org" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="https://pandas.pydata.org" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white"></a>
+<a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
+<a href="https://www.sketch.com" target="_blank"><img alt="Sketch" src="https://img.shields.io/badge/Sketch-FFB387?logo=sketch&logoColor=black"></a>
+<a href="https://www.office.com" target="_blank"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
+<a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
+<a href="https://flutter.dev" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
+
+----------------------
+
+## :mailbox: Get In Touch
+<div align="center">
+<table border="0">
+  <tr>
+    <td> <a href="https://linkedin.com/in/juhi pathak" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-Juhi Pathak-%23FC5531?style=for-the-badge"> </a> </td>
+    <td> <a href="https://twitter.com/the_loneartist" target="_blank"> <img src="https://img.shields.io/badge/Twitter-The_LoneArtist-%23FC5531?style=for-the-badge""> </a> </td>
+    <td> <a href="https://discord.gg/7346" target="_blank">  <img src="https://img.shields.io/badge/Discord-TheLoneArtist-%23FC5531?style=for-the-badge"> </a> </td>
+    <td> <a href="https://medium.com/@pathakkakul" target="_blank">  <img src="https://img.shields.io/badge/Medium-Pathakkakul-%23FC5531?style=for-the-badge"> </a> </td>
     </tr>
 </table>
-  <br/>
-<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
- <br/>
-<h3 align="left">Support:</h3>
- <br/>
- 
-<a href="https://www.buymeacoffee.com/donpablonow">
- <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="donpablonow" />
- </a>
- <br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a>
+</div>
 
-<span align="center">
- 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+------------------------
 
-</span>
- 
-<hr />
- 
-[References (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Director (BGIS) President (Rock Hammer) Project Manager (Philips) Director (Jago®) Tech Lead (Property24) Tech Lead (Allan Gray) Project Lead (Auto Trader)...  [](https://za.linkedin.com/in/donPabloNow "LinkedIn")/[](https://www.freelancer.com/u/uxdev "Freelancer") | [Endorsements (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn")| C# (25), PHP (16), JavaScript (19), Software Development (38), Agile Methodologies (26), Graphic Design (8), Web Services (9), Scrum (25), SQL (30), ASP.NET (9)...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Certifications (21)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Six Sigma (CSSC), eBSI Academy, Google Academy, LinkedIn Academy, BitDegree...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Jobs (11)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Handy Cats, Property24, Naked Snacks, Naspers Limited, Korbitec, Jago®...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Education (9)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Harvard University, Kiron, eBSI Export Academy, Damelin, Waldorf...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Awards (3)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Kiron University, Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
- 
- <hr />
- 
- 🅲🅴🆁🆃🅸🅵🅸🅴🅳 Google™ Sigma™ PMEC™ Udemy™ Hubspot™ LinkedIn™ Microsoft™ - MEAN.js, WAMP.net(C#), LAMP.php stack and Agile, CC, S.O.L.I.D, DRY and TDD practitioner with 15+ years of experience.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-“Master programmers think of systems as stories to be told rather than programs to be written” - Robert C. Martin, aka, Uncle Bob
 
-This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. This message contains confidential information and is intended only for the individual named. If you are not the named addressee, you should not disseminate, distribute or copy this email. Please notify the sender immediately by email if you have received this email by mistake and delete this email from your system. If you are not the intended recipient, you are notified that disclosing, copying, distributing or taking any action in reliance on the contents of this information is strictly prohibited.
+<p align="center">
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=juhipathak23&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="juhipathak23" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=JuhiPathak23&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuhiPathak23&theme=tokyonight&hide_border=true" align="left" width="450" alt="Juhi Pathak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=juhipathak23&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="Juhi Pathak"/>
+</p>
 
-♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
+----------------------
 
-© All Rights Reserved (don) Pablo Brincat
-൫
+## <img src="https://cdn.pixabay.com/photo/2020/10/14/20/31/hands-5655424_1280.png" width="25"> <b>Support</b>
 
-------
-
-Credit:[donPabloNow](https://github.com/donPabloNow)
-Last Edited on: 27/10/2021
+<p><a href="https://www.buymeacoffee.com/juhipathak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="juhipathak" /></a><a href="https://ko-fi.com/juhipathak"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="juhipathak" /></a></p><br><br>

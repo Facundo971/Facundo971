@@ -30,39 +30,37 @@ const Facundo = {
 ```
 ------------------
 
-## <img src="https://vectorified.com/images/free-education-icon-12.png" width="25">  <b>Education</b>
+## <img src="https://vectorified.com/images/free-education-icon-12.png" width="25">  <b>Educación</b>
 <br>
 <table width="100%" align="center" padding="0" margin="0">
 <tr>
 <td valign="top" width="50%">
   
 <!-- START_SECTION:blog -->
-| Qualification | Studied at | Institute | Affliated by | Year of Study | Percentage |
-| :-: | :---: | :----: | :--: | :--: | :--: |
-| B.Tech CSE | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/89b08ba9-ced9-44ed-88c2-9f1902fd16c1" width="40" height="30"> | G. L. Bajaj Institute of Tech. and Mgmt. | AKTU | Nov 2021 - Present | 8.95 CGPA |
-| Intermediate | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/cd162930-387d-453a-bfe3-fc75b06a77dc" width="40" height="30"> | GRM School, Bareilly | CBSE | 2020 - 2021 | 98.4 |
-| Highschool | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/b2f4eb6c-dfdb-4b39-bfaf-67cb83a6a774" width="40" height="30"> | GRM School, Bareilly | CBSE | 2018 - 2019 | 98.2 |
+| Nivel | Institución | Afiliación | Año de Estudio | Estado |
+| :-: | :---: | :--: | :--: | :--: |
+| Facultad | FaCENA - UNNE | Universidad Nacional del Nordeste | Actualmente cursando | En progreso |
+| Secundario | Escuela Secundaria (Corrientes) | Ministerio de Educación | Finalizado | Completo |
+| Primario | Escuela Primaria (Corrientes) | Ministerio de Educación | Finalizado | Completo |
 <!-- END_SECTION:blog -->
 </td>
 </tr>
 </table>  
 
 -------------------
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Programación Competitiva</b>
 <br>
 
 <p align="left"> 
-  <a href="https://leetcode.com/u/pathakjuhi/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/juhi_pathak" target="_blank">  <img alt="CodeChef" width="125" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/pathakkakul" target="_blank">  <img alt="HackerRank" width="125" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/juhipathak" target="_blank"> <img alt="Codeforces" width="125" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerearth.com/@pathakkakul" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.naukri.com/code360/profile/juhipathak" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/" target="_blank">  <img alt="HackerRank" width="125" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/" target="_blank"> <img alt="Codeforces" width="125" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 -------------------
 
-## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills that make me TECH-SAVVY</b>
+## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades Técnicas</b>
+Skills that make me TECH-SAVVY</b>
 
 ### 📋 Programming languages
 

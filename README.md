@@ -37,15 +37,15 @@ const Facundo = {
 <td valign="top" width="50%">
   
 <!-- START_SECTION:blog -->
-| Nivel | Institución | Afiliación | Año de Estudio | Estado |
-| :-: | :---: | :--: | :--: | :--: |
-| Facultad | FaCENA - UNNE | Universidad Nacional del Nordeste | Actualmente cursando | En progreso |
-| Secundario | Escuela Secundaria (Corrientes) | Ministerio de Educación | Finalizado | Completo |
-| Primario | Escuela Primaria (Corrientes) | Ministerio de Educación | Finalizado | Completo |
+| Nivel | Institución | Afiliación | Año | Estado/Promedio |
+| :-: | :---: | :----: | :--: | :--: |
+| Facultad (Ingeniería en Software) | FaCENA - UNNE | Universidad Nacional del Nordeste | En curso | Actualmente cursando |
+| Secundario | Escuela Carmen Molina de Llano | Ministerio de Educación | Finalizado | Completo |
+| Primario | Escuela Manuel Belgrano | Ministerio de Educación | Finalizado | Completo |
 <!-- END_SECTION:blog -->
 </td>
 </tr>
-</table>  
+</table>
 
 -------------------
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Programación Competitiva</b>

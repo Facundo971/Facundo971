@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=50&lines=Soy+Fernandez+Gonzalez+Facundo+Antonio;Estudiante+de+Ingeniería+en+Software;Desarrollador+Web;Apasionado+por+la+Computación"></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=50&lines=Soy+Fernandez+Gonzalez+Facundo+Antonio;Estudiante+de+Ingeniería+en+Software;Desarrollador+Web;Apasionado+por+la+Computación"></p>
 <h3 align="center">Estudiante de Ingeniería en Software | FaCENA - UNNE</h3>
 
 - 🔭 Actualmente trabajando en **Plataforma de ventas de laptops y notebooks** (proyecto de Ingeniería de Software II)  

@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="500" src="https://github.com/tu_usuario/tu_repo/assets/coding.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tu_usuario&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="facundo" width="150"/> </p>
+<p align="left"> <img src="/codigo.jpg" alt="facundo" width="150"/> </p>
 
 - 🔭 Actualmente trabajando en **Plataforma de ventas de laptops y notebooks** (proyecto de Ingeniería de Software II)  
 - 🌱 Estoy profundizando en **Ingeniería de Software, Bases de Datos**  

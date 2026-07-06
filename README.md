@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=50&lines=Soy+Fernandez+Gonzalez+Facundo+Antonio;Estudiante+de+Ingeniería+en+Software;Desarrollador+Web;Apasionado+por+la+Computación"></p>
 <h3 align="center">Estudiante de Ingeniería en Software | FaCENA - UNNE</h3>
 
-<img align="right" alt="coding" width="500" src="https://github.com/tu_usuario/tu_repo/assets/coding.png">
+<img align="right" alt="coding" width="500" src="https://github.com/Facundo971/Facundo971/coding.png">
 
 <p align="left"> <img src="/codigo.jpg" alt="facundo" width="150"/> </p>
 

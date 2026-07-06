@@ -120,19 +120,25 @@ Skills que me hacen TECH-SAVVY
 
 ----------------------
 
-## :mailbox: Get In Touch
+## :mailbox: Contacto
 <div align="center">
 <table border="0">
   <tr>
-    <td> <a href="https://linkedin.com/in/juhi pathak" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-Juhi Pathak-%23FC5531?style=for-the-badge"> </a> </td>
-    <td> <a href="https://twitter.com/the_loneartist" target="_blank"> <img src="https://img.shields.io/badge/Twitter-The_LoneArtist-%23FC5531?style=for-the-badge""> </a> </td>
-    <td> <a href="https://discord.gg/7346" target="_blank">  <img src="https://img.shields.io/badge/Discord-TheLoneArtist-%23FC5531?style=for-the-badge"> </a> </td>
-    <td> <a href="https://medium.com/@pathakkakul" target="_blank">  <img src="https://img.shields.io/badge/Medium-Pathakkakul-%23FC5531?style=for-the-badge"> </a> </td>
-    </tr>
+    <td> 
+      <a href="https://github.com/Facundo971" target="_blank">  
+        <img src="https://img.shields.io/badge/GitHub-Fernandez%20Facundo-%23121011?style=for-the-badge&logo=github&logoColor=white"> 
+      </a> 
+    </td>
+    <td> 
+      <a href="mailto:ffacundo544.fernandez.z@gmail.com" target="_blank">  
+        <img src="https://img.shields.io/badge/Email-ffacundo544.fernandez.z@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+      </a> 
+    </td>
+  </tr>
 </table>
 </div>
 
-------------------------
+----------------------
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 

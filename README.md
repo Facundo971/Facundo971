@@ -140,7 +140,6 @@ Skills que me hacen TECH-SAVVY
 <p align="center">
   <!-- <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Facundo971&show_icons=true&locale=es&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Facundo971" /> 
 
-[![Facundo971's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Facundo971&theme=tokyo-night)](https://github.com/Facundo971)
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Facundo971&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
 </p>
 

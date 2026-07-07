@@ -138,7 +138,7 @@ Skills que me hacen TECH-SAVVY
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <p align="center">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Facundo971&show_icons=true&locale=es&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Facundo971" />
+  <!-- <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Facundo971&show_icons=true&locale=es&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Facundo971" /> -->
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Facundo971&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
 </p>
 
@@ -146,7 +146,7 @@ Skills que me hacen TECH-SAVVY
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Facundo971&theme=tokyonight&hide_border=true" align="left" width="450" alt="Facundo971"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Facundo971&show_icons=true&locale=es&layout=compact&theme=tokyonight" align="center" width="300"  alt="Facundo971"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Facundo971&show_icons=true&locale=es&layout=compact&theme=tokyonight" align="center" width="300"  alt="Facundo971"/> -->
 </p>
 
 ----------------------

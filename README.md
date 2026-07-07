@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=50&lines=Soy+Fernandez+Gonzalez+Facundo+Antonio;Estudiante+de+FaCENA;Desarrollador+Web;Apasionado+por+la+Informática"></p>
-<h3 align="center">Estudiante de Ingeniería en Software | FaCENA - UNNE</h3>
+<h3 align="center">Estudiante de FaCENA - UNNE</h3>
 
 - 🔭 Actualmente trabajando en **Plataforma de ventas de laptops y notebooks** (proyecto de Ingeniería de Software II)  
 - 🌱 Estoy profundizando en **Ingeniería de Software, Bases de Datos**  
@@ -14,9 +14,8 @@
 
 ```javascript
 const Facundo = {
-  pronombres: "Él" | "Su",
   lenguajes: ["JavaScript", "HTML", "CSS", "PHP"],
-  frameworks: ["Bootstrap", "Tailwind", "Laravel", "CodeIgniter 4"],
+  frameworks: ["Bootstrap", "Tailwind CSS", "Laravel", "CodeIgniter 4"],
   intereses: ["Desarrollo Web", "Ingeniería de Software", "Bases de Datos"],
   proyectos: {
       actual: "Plataforma de ventas de laptops y notebooks"
@@ -46,7 +45,7 @@ const Facundo = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Práctica y Formación en Programación</b>
 <br>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.w3schools.com/css/default.asp" target="_blank"> 
     <img alt="W3Schools" width="125" src="https://img.shields.io/badge/W3Schools-%2300C4CC.svg?logo=w3schools&logoColor=white"/> 
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

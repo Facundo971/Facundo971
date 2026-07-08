@@ -24,7 +24,8 @@ const Facundo = {
 ```
 ------------------
 
-## <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" width="25"> <b>Educación</b>
+## <img src="https://img.icons8.com/ios-filled/50/ffffff/graduation-cap.png" width="25"> <b>Educación</b>
+
 <br>
 <table width="100%" align="center" padding="0" margin="0">
 <tr>

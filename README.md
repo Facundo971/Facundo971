@@ -41,22 +41,18 @@ const Facundo = {
 </table>
 
 -------------------
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Práctica y Formación en Programación</b>
-<br>
 
-<p align="center"> 
-  <a href="https://www.w3schools.com/css/default.asp" target="_blank"> 
-    <img alt="W3Schools" width="125" src="https://img.shields.io/badge/W3Schools-%2300C4CC.svg?logo=w3schools&logoColor=white"/> 
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Práctica y Formación en Programación</b>
 
-  <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" width="125" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> 
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
 
-  <a href="#" target="_blank"> 
-    <img alt="Facultad" width="125" src="https://img.shields.io/badge/Ejercicios%20Académicos-UNNE-blue"/> 
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+| Plataforma | Enlace |
+|------------|--------|
+| <img alt="W3Schools" width="125" src="https://img.shields.io/badge/W3Schools-%2300C4CC.svg?logo=w3schools&logoColor=white"/> | [W3Schools](https://www.w3schools.com/css/default.asp) |
+| <img alt="GitHub" width="125" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> | [GitHub](https://github.com/) |
+| <img alt="Facultad" width="125" src="https://img.shields.io/badge/Ejercicios%20Académicos-UNNE-blue"/> | Ejercicios Académicos (UNNE) |
+
+</div>
 
 -------------------
 

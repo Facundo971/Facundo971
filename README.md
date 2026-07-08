@@ -79,7 +79,7 @@ const Facundo = {
 | Proyecto | Descripción | Tecnologías | Notas / Requisitos |
 |----------|-------------|-------------|--------------------|
 | [Web de Ventas de Laptops y Notebook](https://github.com/axeljf18-dev/ISII_26TC_Grupo30) | Plataforma de e-commerce para notebooks y laptops | JavaScript, PHP, HTML, CSS, CodeIgniter, Bootstrap, SQL Server, XAMPP, phpMyAdmin, VS Code | Requiere carpeta **[vendor](https://drive.google.com/drive/folders/1D04G5rbf8JFxey5m3uOvT57qfrh1D6HN)**: descargar la carpeta y sustituirlo en el proyecto, reemplazando la actual, para que el sistema pueda ejecutarse. |
-| [Escritorio de Ventas](https://github.com/Facundo971/ProyectoNetshop3) | Plataforma de escritorio para gestión de ventas de notebooks y laptops | C#, Windows Forms, SQL Server | Conexión a base de datos: descargar carpeta **[BD + usuarios de prueba](https://drive.google.com/drive/folders/XXXXXXXXXXXX)** desde Google Drive y reemplazar en el proyecto. Incluye archivo de texto con credenciales ficticias |
+| [Escritorio de Ventas](https://github.com/Facundo971/ProyectoNetshop3) | Plataforma de escritorio para gestión de ventas de notebooks y laptops | C#, Windows Forms, SQL Server | Conexión a base de datos y cuentas de prueba: descargar el archivo y los usuarios de pruebas **[BD + usuarios de prueba](https://drive.google.com/drive/folders/1Hywuyc49RhZKbicIGkyAP7z3Kyb-YkkF)** desde Google Drive. |
 | Sistema Web de Repuestos Automóviles (en mantenimiento) | Sistema web para gestión de repuestos de automóviles | JavaScript, PHP, HTML, CSS, Bootstrap, Tailwind CSS, Laravel, MySQL, VS Code, XAMPP, phpMyAdmin | Proyecto aún en mantenimiento, no disponible en repositorio |
 
 </div>
@@ -91,8 +91,8 @@ const Facundo = {
 
 | Plataforma | Enlace |
 |------------|--------|
-| <a href="https://github.com/Facundo971" target="_blank"><img src="https://img.shields.io/badge/GitHub-Fernandez%20Facundo-%23121011?style=for-the-badge&logo=github&logoColor=white"></a> | [GitHub](https://github.com/Facundo971) |
-| <a href="mailto:ffacundo544.fernandez.z@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ffacundo544.fernandez.z@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> | [Correo](mailto:ffacundo544.fernandez.z@gmail.com) |
+| <img src="https://img.shields.io/badge/GitHub-Fernandez%20Facundo-%23121011?style=for-the-badge&logo=github&logoColor=white"> | GitHub: Facundo971 |
+| <img src="https://img.shields.io/badge/Email-ffacundo544.fernandez.z@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"> | Correo: ffacundo544.fernandez.z@gmail.com |
 
 </div>
 

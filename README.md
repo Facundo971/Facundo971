@@ -46,11 +46,11 @@ const Facundo = {
 
 <div align="center">
 
-| Plataforma | Enlace |
-|------------|--------|
-| <img alt="W3Schools" width="125" src="https://img.shields.io/badge/W3Schools-%2300C4CC.svg?logo=w3schools&logoColor=white"/> | [W3Schools](https://www.w3schools.com/css/default.asp) |
-| <img alt="GitHub" width="125" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> | [GitHub](https://github.com/) |
-| <img alt="Facultad" width="125" src="https://img.shields.io/badge/Ejercicios%20Académicos-UNNE-blue"/> | Ejercicios Académicos (UNNE) |
+| Plataforma | Detalle |
+|------------|---------|
+| <img alt="W3Schools" width="125" src="https://img.shields.io/badge/W3Schools-%2300C4CC.svg?logo=w3schools&logoColor=white"/> | W3Schools (prácticas de CSS y otros temas) |
+| <img alt="GitHub" width="125" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> | GitHub (repositorios académicos) |
+| <img alt="Facultad" width="125" src="https://img.shields.io/badge/Ejercicios%20Académicos-UNNE-blue"/> | Ejercicios Académicos – UNNE |
 
 </div>
 
@@ -89,9 +89,9 @@ const Facundo = {
 ## :mailbox: Contacto
 <div align="center">
 
-| Plataforma | Enlace |
-|------------|--------|
-| <img src="https://img.shields.io/badge/GitHub-Fernandez%20Facundo-%23121011?style=for-the-badge&logo=github&logoColor=white"> | GitHub: Facundo971 |
+| Plataforma | Detalle |
+|------------|---------|
+| <img src="https://img.shields.io/badge/GitHub-Fernandez%20Facundo-%23121011?style=for-the-badge&logo=github&logoColor=white"> | Usuario: Facundo971 |
 | <img src="https://img.shields.io/badge/Email-ffacundo544.fernandez.z@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"> | Correo: ffacundo544.fernandez.z@gmail.com |
 
 </div>

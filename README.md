@@ -114,11 +114,17 @@ Skills que me hacen TECH-SAVVY
 ----------------------
 
 ## 🚀 Proyectos
+<table width="100%" align="center" padding="0" margin="0">
+<tr>
+<td valign="top" width="50%">
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [Ventas de laptops](https://github.com/Facundo971/proyecto-ventas) | Plataforma de e-commerce para notebooks | PHP, MySQL, Bootstrap |
 | [Gestión académica](https://github.com/Facundo971/sistema-academico) | Sistema para administración de cursos | Laravel, SQL Server |
 | [Turismo Corrientes](https://github.com/Facundo971/turismo-corrientes) | Portal digital de turismo regional | HTML, CSS, JS |
+</td>
+</tr>
+</table>
 
 ----------------------
 

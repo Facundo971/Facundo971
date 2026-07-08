@@ -61,7 +61,7 @@ const Facundo = {
 
 | Categoría | Tecnologías |
 |-----------|-------------|
-| Lenguajes | JavaScript, PHP, HTML, CSS |
+| Lenguajes | JavaScript, PHP, C#, HTML, CSS |
 | Frameworks | Bootstrap, Tailwind CSS, Laravel, CodeIgniter |
 | Bases de Datos | MySQL, SQL Server |
 | Control de Versiones | Git, GitHub |
@@ -76,11 +76,11 @@ const Facundo = {
 ## 🚀 Proyectos
 <div align="center">
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [Ventas de laptops](https://github.com/Facundo971/proyecto-ventas) | Plataforma de e-commerce para notebooks | PHP, MySQL, Bootstrap |
-| [Gestión académica](https://github.com/Facundo971/sistema-academico) | Sistema para administración de cursos | Laravel, SQL Server |
-| [Turismo Corrientes](https://github.com/Facundo971/turismo-corrientes) | Portal digital de turismo regional | HTML, CSS, JS |
+| Proyecto | Descripción | Tecnologías | Notas / Requisitos |
+|----------|-------------|-------------|--------------------|
+| [Web de Ventas de Laptops y Notebook](https://github.com/axeljf18-dev/ISII_26TC_Grupo30) | Plataforma de e-commerce para notebooks y laptops | JavaScript, PHP, HTML, CSS, CodeIgniter, Bootstrap, SQL Server, XAMPP, phpMyAdmin, VS Code | Requiere carpeta **[vendor](https://drive.google.com/drive/folders/1D04G5rbf8JFxey5m3uOvT57qfrh1D6HN)**: descargar y reemplazar la existente para que funcione correctamente |
+| [Escritorio de Ventas](https://github.com/Facundo971/ProyectoNetshop3) | Plataforma de escritorio para gestión de ventas de notebooks y laptops | C#, Windows Forms, SQL Server | Configurar conexión a SQL Server antes de ejecutar |
+| Sistema Web de Repuestos Automóviles (en mantenimiento) | Sistema web para gestión de repuestos de automóviles | JavaScript, PHP, HTML, CSS, Bootstrap, Tailwind CSS, Laravel, MySQL, VS Code, XAMPP, phpMyAdmin | Proyecto aún en mantenimiento, no disponible en repositorio |
 
 </div>
 

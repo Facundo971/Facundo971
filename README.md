@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=50&lines=Soy+Fernandez+Gonzalez+Facundo+Antonio;Estudiante+de+FaCENA;Desarrollador+Web;Apasionado+por+la+Informática"></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=50&lines=Soy+Fernandez+Gonzalez+Facundo+Antonio;Desarrollador+Web;Apasionado+por+la+Informática"></p>
 <h3 align="center">Estudiante de FaCENA - UNNE</h3>
 
 - 🔭 Actualmente trabajando en **Plataforma de ventas de laptops y notebooks** (proyecto de Ingeniería de Software II)  
@@ -14,7 +14,7 @@
 
 ```javascript
 const Facundo = {
-  lenguajes: ["JavaScript", "HTML", "CSS", "PHP"],
+  lenguajes: ["JavaScript", "HTML", "CSS", "PHP", "C#"],
   frameworks: ["Bootstrap", "Tailwind CSS", "Laravel", "CodeIgniter 4"],
   intereses: ["Desarrollo Web", "Ingeniería de Software", "Bases de Datos"],
   proyectos: {
@@ -78,8 +78,8 @@ const Facundo = {
 
 | Proyecto | Descripción | Tecnologías | Notas / Requisitos |
 |----------|-------------|-------------|--------------------|
-| [Web de Ventas de Laptops y Notebook](https://github.com/axeljf18-dev/ISII_26TC_Grupo30) | Plataforma de e-commerce para notebooks y laptops | JavaScript, PHP, HTML, CSS, CodeIgniter, Bootstrap, SQL Server, XAMPP, phpMyAdmin, VS Code | Requiere carpeta **[vendor](https://drive.google.com/drive/folders/1D04G5rbf8JFxey5m3uOvT57qfrh1D6HN)**: descargar y reemplazar la existente para que funcione correctamente |
-| [Escritorio de Ventas](https://github.com/Facundo971/ProyectoNetshop3) | Plataforma de escritorio para gestión de ventas de notebooks y laptops | C#, Windows Forms, SQL Server | Configurar conexión a SQL Server antes de ejecutar |
+| [Web de Ventas de Laptops y Notebook](https://github.com/axeljf18-dev/ISII_26TC_Grupo30) | Plataforma de e-commerce para notebooks y laptops | JavaScript, PHP, HTML, CSS, CodeIgniter, Bootstrap, SQL Server, XAMPP, phpMyAdmin, VS Code | Requiere carpeta **[vendor](https://drive.google.com/drive/folders/1D04G5rbf8JFxey5m3uOvT57qfrh1D6HN)**: descargar la carpeta y sustituirlo en el proyecto, reemplazando la actual, para que el sistema pueda ejecutarse. |
+| [Escritorio de Ventas](https://github.com/Facundo971/ProyectoNetshop3) | Plataforma de escritorio para gestión de ventas de notebooks y laptops | C#, Windows Forms, SQL Server | Conexión a base de datos: descargar carpeta **[BD + usuarios de prueba](https://drive.google.com/drive/folders/XXXXXXXXXXXX)** desde Google Drive y reemplazar en el proyecto. Incluye archivo de texto con credenciales ficticias |
 | Sistema Web de Repuestos Automóviles (en mantenimiento) | Sistema web para gestión de repuestos de automóviles | JavaScript, PHP, HTML, CSS, Bootstrap, Tailwind CSS, Laravel, MySQL, VS Code, XAMPP, phpMyAdmin | Proyecto aún en mantenimiento, no disponible en repositorio |
 
 </div>

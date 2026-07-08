@@ -88,20 +88,12 @@ const Facundo = {
 
 ## :mailbox: Contacto
 <div align="center">
-<table border="0">
-  <tr>
-    <td> 
-      <a href="https://github.com/Facundo971" target="_blank">  
-        <img src="https://img.shields.io/badge/GitHub-Fernandez%20Facundo-%23121011?style=for-the-badge&logo=github&logoColor=white"> 
-      </a> 
-    </td>
-    <td> 
-      <a href="mailto:ffacundo544.fernandez.z@gmail.com" target="_blank">  
-        <img src="https://img.shields.io/badge/Email-ffacundo544.fernandez.z@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
-      </a> 
-    </td>
-  </tr>
-</table>
+
+| Plataforma | Enlace |
+|------------|--------|
+| <a href="https://github.com/Facundo971" target="_blank"><img src="https://img.shields.io/badge/GitHub-Fernandez%20Facundo-%23121011?style=for-the-badge&logo=github&logoColor=white"></a> | [GitHub](https://github.com/Facundo971) |
+| <a href="mailto:ffacundo544.fernandez.z@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ffacundo544.fernandez.z@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> | [Correo](mailto:ffacundo544.fernandez.z@gmail.com) |
+
 </div>
 
 ----------------------

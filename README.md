@@ -61,70 +61,32 @@ const Facundo = {
 -------------------
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Habilidades Técnicas</b>
-Skills que me hacen TECH-SAVVY
+<div align="center">
 
-### 📋 Lenguajes de Programación
-<p align="left"> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
-</p>
+| Categoría | Tecnologías |
+|-----------|-------------|
+| Lenguajes | JavaScript, PHP, HTML, CSS |
+| Frameworks | Bootstrap, Tailwind CSS, Laravel, CodeIgniter |
+| Bases de Datos | MySQL, SQL Server |
+| Control de Versiones | Git, GitHub |
+| Sistemas Operativos | Windows 10, Windows 11 |
+| IDEs | VS Code, Visual Studio, NetBeans, Dev-C++ |
+| Otros Recursos | XAMPP, phpMyAdmin |
 
-### 📋 Frameworks y Librerías
-<p align="left"> 
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/>
-  <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?logo=codeigniter&logoColor=white"/>
-</p>
-
-### 💾 Bases de Datos
-<p align="left"> 
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
-</p>
-
-### ♾️ Control de Versiones y DevOps
-<p align="left"> 
-  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
-</p>
-
-### 🎛️ Sistemas Operativos
-<p align="left"> 
-  <img alt="Windows 10" src="https://img.shields.io/badge/Windows%2010-0078D6?logo=windows&logoColor=white"/>
-  <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-0078D6?logo=windows&logoColor=white"/>
-</p>
-
-### 💻 IDEs y Editores
-<p align="left"> 
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
-  <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"/>
-  <img alt="Dev-C++" src="https://img.shields.io/badge/Dev--C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
-</p>
-
-### 🥅 Otros Recursos
-<p align="left"> 
-  <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-F37623.svg?logo=xampp&logoColor=white"/>
-  <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?logo=phpmyadmin&logoColor=white"/>
-</p>
+</div>
 
 ----------------------
 
 ## 🚀 Proyectos
-<table width="100%" align="center" padding="0" margin="0">
-<tr>
-<td valign="top" width="50%">
+<div align="center">
+
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [Ventas de laptops](https://github.com/Facundo971/proyecto-ventas) | Plataforma de e-commerce para notebooks | PHP, MySQL, Bootstrap |
 | [Gestión académica](https://github.com/Facundo971/sistema-academico) | Sistema para administración de cursos | Laravel, SQL Server |
 | [Turismo Corrientes](https://github.com/Facundo971/turismo-corrientes) | Portal digital de turismo regional | HTML, CSS, JS |
-</td>
-</tr>
-</table>
+
+</div>
 
 ----------------------
 

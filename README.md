@@ -24,7 +24,7 @@ const Facundo = {
 ```
 ------------------
 
-## <img src="https://vectorified.com/images/free-education-icon-12.png" width="25">  <b>Educación</b>
+## <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" width="25"> <b>Educación</b>
 <br>
 <table width="100%" align="center" padding="0" margin="0">
 <tr>
@@ -33,7 +33,7 @@ const Facundo = {
 <!-- START_SECTION:blog -->
 | Nivel | Institución | Afiliación | Año | Estado/Promedio |
 | :-: | :---: | :----: | :--: | :--: |
-| Facultad (Ingeniería en Software) | FaCENA - UNNE | Universidad Nacional del Nordeste | En curso | Actualmente cursando |
+| Facultad | FaCENA - UNNE | Universidad Nacional del Nordeste | En curso | Actualmente cursando |
 | Secundario | Escuela Carmen Molina de Llano | Ministerio de Educación | Finalizado | Completo |
 | Primario | Escuela Manuel Belgrano | Ministerio de Educación | Finalizado | Completo |
 <!-- END_SECTION:blog -->
